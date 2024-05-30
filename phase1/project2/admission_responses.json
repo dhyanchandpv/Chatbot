@@ -1,0 +1,64 @@
+{
+  "responses": [
+    {
+      "question": "What are the admission requirements for undergraduate programs?",
+      "answer": "Admission requirements for undergraduate programs typically include high school transcripts, standardized test scores (such as SAT or ACT), letters of recommendation, a personal statement, and sometimes an admissions interview."
+    },
+    {
+      "question": "Can I apply as an international student?",
+      "answer": "Yes, many universities accept international students. You will usually need to submit additional documents such as proof of English proficiency (TOEFL or IELTS scores), a copy of your passport, and sometimes financial documentation."
+    },
+    {
+      "question": "When is the application deadline?",
+      "answer": "Application deadlines vary depending on the university and program. It's essential to check the university's official website or contact the admissions office for specific deadlines."
+    },
+    {
+      "question": "What is the application fee?",
+      "answer": "The application fee varies by university. It typically ranges from $50 to $100 USD. Some universities offer fee waivers for students with financial need."
+    },
+    {
+      "question": "Do I need to submit recommendation letters?",
+      "answer": "Yes, recommendation letters are often required as part of the application process. These letters should be written by teachers, counselors, or other individuals who can speak to your academic abilities and character."
+    },
+    {
+      "question": "Is there an application essay requirement?",
+      "answer": "Many universities require applicants to submit an application essay or personal statement. This essay allows you to showcase your personality, experiences, and aspirations to the admissions committee."
+    },
+    {
+      "question": "What is the minimum GPA requirement for admission?",
+      "answer": "The minimum GPA requirement varies by university and program. In general, competitive programs may have higher GPA requirements, while others may consider a holistic review of applicants."
+    },
+    {
+      "question": "Are there scholarships available for international students?",
+      "answer": "Yes, many universities offer scholarships and financial aid for international students. These scholarships may be merit-based, need-based, or specific to certain countries or regions."
+    },
+    {
+      "question": "How can I schedule a campus tour?",
+      "answer": "You can schedule a campus tour by visiting the university's official website and looking for the admissions or visitation page. Many universities offer online registration for campus tours or information sessions."
+    },
+    {
+      "question": "What documents do I need to submit with my application?",
+      "answer": "Typical documents required for admission include high school transcripts, standardized test scores, recommendation letters, a personal statement, and sometimes a resume or portfolio."
+    },
+    {
+      "question": "Is there an interview requirement for admission?",
+      "answer": "Some universities may require an admissions interview as part of the application process. This interview may be conducted in person, over the phone, or via video conference."
+    },
+    {
+      "question": "Can I transfer credits from another institution?",
+      "answer": "Many universities accept transfer credits from other institutions. The transfer credit policy varies by university and program. You may need to submit official transcripts and course syllabi for evaluation."
+    },
+    {
+      "question": "What is the acceptance rate?",
+      "answer": "The acceptance rate refers to the percentage of applicants who are offered admission to a university or program. Acceptance rates vary widely and depend on factors such as the competitiveness of the program and the number of applicants."
+    },
+    {
+      "question": "How can I check the status of my application?",
+      "answer": "You can typically check the status of your application by logging into the university's application portal. If you have any questions or concerns about your application status, you can also contact the admissions office directly."
+    },
+    {
+      "question": "Is there an early decision or early action option?",
+      "answer": "Some universities offer early decision or early action options for applicants who wish to receive an admissions decision earlier in the application cycle. These programs typically have earlier application deadlines and require a commitment to attend if accepted."
+    }
+  ]
+}
